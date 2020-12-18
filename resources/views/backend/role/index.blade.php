@@ -86,8 +86,8 @@
 
                     <tfoot>
                     <tr>
-                        <th>Category Name Bangla</th>
-                        <th>Category Name English</th>
+                        <th>Name</th>
+                        <th>Role</th>
                         <th>Action</th>
                     </tr>
                     </tfoot>
